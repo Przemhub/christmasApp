@@ -14,7 +14,7 @@
 	<name>christmas</name>
 	<description>Christmas randomizaer</description>
 	<properties>
-		<java.version>16</java.version>
+		<java.version>11.0.4</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
